@@ -1,0 +1,18 @@
+We can see there are 211 teams in the list, but teams should represent a country.
+In 2023, there are 193 member states recognized by the United Nations. 
+Additionally, there are 2 observer states: the Holy See (Vatican City) and the State of Palestine, making a total of 195 recognized entities according to some source.
+So, we can wonder why there are more teams in the FIFA list (past 30 years) than there are countries in the world?
+
+Well, the reason is simple. In the FIFA list, there are teams like Greenland, Puerto Rico or Tahiti.
+These teams are parts of countries, but still are independant teams. 
+Greenland is part of Denmark, Puerto Rico part of the US and Tahiti part of France.
+
+
+There is a total of 64 048 goals scored since 1993.
+It represents an average of 2134 goals per year.
+
+
+Bonus?
+
+The earliest entry is from 08/08/1993. The first FIFA game from EA Sports was out the 15 december of 1993. Insert photo of what the game looked like.
+There were 48 national teams in the game.
