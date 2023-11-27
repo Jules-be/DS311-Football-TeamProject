@@ -5,6 +5,7 @@ import seaborn as sns
 # Do teams with stronger offense players score more goals? And do teams with stronger goalkeepers receive fewer goals? (suggested question)
 
 df = pd.read_csv('data/fifa_world_cup.csv')
+df = df.dropna()
 
 # Calculate correlation between home/away team's offensive strength and goals scored
 home_offense_corr = df['home_team_mean_offense_score'].corr(df['home_team_score'])
