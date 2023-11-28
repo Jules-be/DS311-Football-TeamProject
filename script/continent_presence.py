@@ -3,6 +3,7 @@
 
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 
 file = "data/fifa_world_cup.csv"
 df = pd.read_csv(file)
@@ -18,3 +19,12 @@ print(f"The continent most present during the FIFA World Cup is: {most_prst_cont
 print("Leaderboard - Top 5 Continents:")
 for i, (continent, count) in enumerate(top_5.items(), start=1):
     print(f"{i}. {continent} with {count} participations")
+
+plt.figure(figsize=(10, 6))
+top_5.plot(kind='bar', color='skyblue')
+plt.title('Top 5 Continents in FIFA World Cup Participation')
+plt.xlabel('Continents')
+plt.ylabel('Number of Participations')
+plt.xticks(rotation=45, ha='right')
+plt.tight_layout()
+plt.show()
