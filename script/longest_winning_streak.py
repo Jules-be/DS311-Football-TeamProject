@@ -1,6 +1,6 @@
 
 ## What team has the longest winning streak ?
-## Asnwered by Mateo Deroche
+## Answered by Mateo Deroche
 
 # Import necessary libraries
 import pandas as pd

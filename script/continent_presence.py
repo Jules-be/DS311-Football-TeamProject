@@ -1,6 +1,6 @@
 
 ## Question: Which continent is most present during the competition ?
-## Asnwered by Mateo Deroche
+## Answered by Mateo Deroche
 
 # Import necessary libraries
 import pandas as pd
